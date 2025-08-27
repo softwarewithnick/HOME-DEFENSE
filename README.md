@@ -18,5 +18,6 @@
   <img src="https://github.com/user-attachments/assets/00ff161b-a228-4f60-8c7a-19f5cce8c779" width="400" />
   <img src="https://github.com/user-attachments/assets/dea32d06-7f4b-450e-8e9e-b98c1dc7e4ec" width="400" />
 </p>
+
 - Upload the arduino script from this repo to your ESP32. You can find many guides on this process on YouTube or elsewhere. Getting your first script up and running on your ESP32 can be a little tricky, but once you do it once it's extremely easy.
 - If your script is running correctly and you open your serial monitor in Arduino IDE, you'll see the distances being printed!
