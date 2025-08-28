@@ -11,6 +11,7 @@
 
 # Wiring
 ### Day 1
+[Day 1 video](https://www.instagram.com/p/DN4NIdugvJe/)
 - The ESP32 is being powered via micro-usb.
 - The 3.3V and GND pin are connected to the Vcc and Gnd pins on the ultrasonic sensor.
 - Connect pin 18 (D18) and pin 19 (D19) on the ESP32 to the Trig and Echo pin respectively
