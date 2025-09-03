@@ -1,3 +1,6 @@
+# NOTE
+All of the scripts are within their own directory because Arduino expects a .ino script to be within a directory with the same name.
+
 # Materials Used
 
 [ARDUINO IDE](https://www.arduino.cc/en/software/)
