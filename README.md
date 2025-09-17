@@ -25,8 +25,9 @@ All of the scripts are within their own directory because Arduino expects a .ino
 
 # Day 2
 ### Instructions
-- Two ESP32s are needed for this. You will need to upload the appropriate script to each ESP32, which can be found in this repo
 [Day 2 video](https://www.instagram.com/p/DOKbqNPDM72/)
+
+- Two ESP32s are needed for this. You will need to upload the appropriate script to each ESP32, which can be found in this repo
 
 # Day 3
 ### Instructions
