@@ -34,6 +34,7 @@ All of the scripts are within their own directory because Arduino expects a .ino
 # Day 3
 ### Instructions
 [Day 3 video]()
+
 [3D printed catapult](https://www.printables.com/model/211679-catapult-card)
 
 - Upload the arduino script from this repo to your ESP32. You can find many guides on this process on YouTube or elsewhere. Getting your first script up and running on your ESP32 can be a little tricky, but once you do it once it's extremely easy.
