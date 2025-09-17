@@ -9,6 +9,8 @@ All of the scripts are within their own directory because Arduino expects a .ino
 
 [ULTRASONIC SENSOR](https://www.amazon.com/MTDELE-HC-SR04-Ultrasonic-Arduino-Mounting/dp/B0D6WBK52V/ref=sr_1_2_sspa?crid=1INGN2ETL2P84&dib=eyJ2IjoiMSJ9.dhfoArBcovFZKEbtem8Ow2ycOAbvJFJ7A2ehizrZrECqvTAER2zhPjZdzS47tEIpbUnFG0v4J60F9yybTSQojxao1hB0JgKCGE46aBYd4BHp1aM05Y0ioX7v5nKniVib7OAZG0gXq0lfvwLj8c6Y1t7kgvTq5ntnGPpaE2yLM0BJaz9nN6kBelmcP1pZ6IBkbRNBOG2SXQpNOF4uQPMsLFiY2VwlELgV7dX_EthoMFk.W-k6bReU1juj05LJ9bpmEafSgwTtd_4d9nXQ2RCuaq8&dib_tag=se&keywords=ultrasonic+sensor&qid=1756324459&sprefix=ultrasonic+senso%2Caps%2C118&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
+[STEPPER MOTOR](https://www.amazon.com/DIYables-28BYJ-48-ULN2003-Stepper-Raspberry/dp/B0BXKL5T9Q/?_encoding=UTF8&pd_rd_w=I4nVi&content-id=amzn1.sym.9c7b99cf-e985-4bc9-a541-c9a74e21a3f8%3Aamzn1.symc.050ea944-f1cf-4610-b462-3b604f2f4082&pf_rd_p=9c7b99cf-e985-4bc9-a541-c9a74e21a3f8&pf_rd_r=R662WK0VF7REA74B9DCT&pd_rd_wg=3qk0X&pd_rd_r=c26b27ad-ffe1-45e4-ba34-6360c723e843&ref_=pd_hp_d_btf_ci_mcx_mr_ca_id_hp_d&th=1)
+
 # ESP32 PINOUT
 ![esp32pinout](https://github.com/user-attachments/assets/ce3a1018-c249-447b-bd6d-f3624d04b465)
 
