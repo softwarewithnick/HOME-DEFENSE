@@ -12,8 +12,8 @@ All of the scripts are within their own directory because Arduino expects a .ino
 # ESP32 PINOUT
 ![esp32pinout](https://github.com/user-attachments/assets/ce3a1018-c249-447b-bd6d-f3624d04b465)
 
-# Wiring
-### Day 1
+# Day 1
+### Instructions
 [Day 1 video](https://www.instagram.com/p/DN4NIdugvJe/)
 - The ESP32 is being powered via micro-usb.
 - The 3.3V and GND pin are connected to the Vcc and Gnd pins on the ultrasonic sensor.
@@ -22,6 +22,14 @@ All of the scripts are within their own directory because Arduino expects a .ino
   <img src="https://github.com/user-attachments/assets/00ff161b-a228-4f60-8c7a-19f5cce8c779" width="400" />
   <img src="https://github.com/user-attachments/assets/dea32d06-7f4b-450e-8e9e-b98c1dc7e4ec" width="400" />
 </p>
+
+# Day 2
+### Instructions
+[Day 2 video]("https://www.instagram.com/p/DOKbqNPDM72/")
+
+# Day 3
+### Instructions
+[Day 3 video]()
 
 - Upload the arduino script from this repo to your ESP32. You can find many guides on this process on YouTube or elsewhere. Getting your first script up and running on your ESP32 can be a little tricky, but once you do it once it's extremely easy.
 - If your script is running correctly and you open your serial monitor in Arduino IDE, you'll see the distances being printed!
