@@ -33,7 +33,7 @@ All of the scripts are within their own directory because Arduino expects a .ino
 
 # Day 3
 ### Instructions
-[Day 3 video]()
+[Day 3 video](https://www.instagram.com/p/DOuhHlFDBSt/)
 
 [3D printed catapult](https://www.printables.com/model/211679-catapult-card)
 
