@@ -39,4 +39,10 @@ All of the scripts are within their own directory because Arduino expects a .ino
 
 [3D printed catapult](https://www.printables.com/model/211679-catapult-card)
 
+# Day 4
+### Instructions
+[Day 4 video]()
+
+Links to both of the final 3D printed parts for the motor can be found in this repo with the names "motor-holder-homedefense.stl" and "motor-hook-homedefense.stl"
+
 
