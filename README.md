@@ -41,7 +41,7 @@ All of the scripts are within their own directory because Arduino expects a .ino
 
 # Day 4
 ### Instructions
-[Day 4 video]()
+[Day 4 video](https://www.instagram.com/p/DVXNhLaAlGf/)
 
 Links to both of the final 3D printed parts for the motor can be found in this repo with the names "motor-holder-homedefense.stl" and "motor-hook-homedefense.stl"
 
